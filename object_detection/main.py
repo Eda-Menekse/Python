@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-img = cv2.imread("people.jpg")
+img = cv2.imread("image.jpg")
 
 #print(img.shape) 427, 640, 3
 
